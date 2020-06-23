@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fc984ab-c87a-4d48-b7df-d99642989319" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dj1VbBXdkrOn7A0CMa96dwxvSL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Tiger">
+    <configuration name="Felidae" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Felidae" />
+      <module name="JavaInheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tiger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tiger" />
+      <module name="JavaInheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tiger" />
+        <item itemvalue="Application.Felidae" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc984ab-c87a-4d48-b7df-d99642989319" name="Default Changelist" comment="" />
+      <created>1592923712334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592923712334</updated>
+      <workItem from="1592923715352" duration="1636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1592924072882">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="732" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1592924072882" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1592925370893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592925370893" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1592925370893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592925370893" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1592925370893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592925370893" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1592925370893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592925370893" />
+  </component>
+</project>
